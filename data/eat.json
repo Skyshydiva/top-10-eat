@@ -1,0 +1,104 @@
+[
+    {   
+        "id": 0,
+        "name": "The Restaraunt At The Armory",
+        "address": "145 Culver Rd",
+        "rating": "4.3 stars",
+        "phone": "(585) 270-5460",
+        "photo": "assets/images/TRATA.jpg",
+        "menu": ["Soft Pretzel", "Tempura Cauliflower", "Nachos", "Buttermilk Chicken Fingers", "Chicken Wings", "Steamed Buns", "Duck Quesadilla", "Blackened Fish Tacos"]
+    },
+
+    {   
+        "id": 1,
+        "name": "The Gate House",
+        "address": "274 N Goodman St",
+        "rating": "4.5 stars",
+        "phone": "(585) 473-2090",
+        "photo": "assets/images/TGH.png",
+        "menu": ["Soft Pretzel", "Tempura Cauliflower", "Nachos", "Buttermilk Chicken Fingers", "Chicken Wings", "Steamed Buns", "Duck Quesadilla", "Blackened Fish Tacos"]
+    },
+    
+    {   
+        "id": 2,
+        "name": "ROAM Cafe",
+        "address": "260 Park Ave",
+        "rating": "4.5 stars",
+        "phone": "(585) 360-4165",
+        "photo": "assets/images/ROAM.jpg",
+        "menu": ["Soft Pretzel", "Tempura Cauliflower", "Nachos", "Buttermilk Chicken Fingers", "Chicken Wings", "Steamed Buns", "Duck Quesadilla", "Blackened Fish Tacos"]
+    },
+
+    {   
+        "id": 3,
+        "name": "The Distillery Restaraunt",
+        "address": "1142 Mt Hope Ave",
+        "rating": "4.2 stars",
+        "phone": "(585) 271-4105",
+        "photo": "assets/images/TDR.jpg",
+        "menu": ["Soft Pretzel", "Tempura Cauliflower", "Nachos", "Buttermilk Chicken Fingers", "Chicken Wings", "Steamed Buns", "Duck Quesadilla", "Blackened Fish Tacos"]
+    },
+
+    {   
+        "id": 4,
+        "name": "Dinosaur Bar-B-Que",
+        "address": "99 Court St",
+        "rating": "4.6 stars",
+        "phone": "(585) 323-7090",
+        "photo": "assets/images/DBBQ.jpg",
+        "menu": ["Soft Pretzel", "Tempura Cauliflower", "Nachos", "Buttermilk Chicken Fingers", "Chicken Wings", "Steamed Buns", "Duck Quesadilla", "Blackened Fish Tacos"]
+    },
+
+    {   
+        "id": 5,
+        "name": "The Cub Room",
+        "address": "739 Clinton Ave",
+        "rating": "4.5 stars",
+        "phone": "(585) 504-2790",
+        "photo": "assets/images/TCR.jpg",
+        "menu": ["Soft Pretzel", "Tempura Cauliflower", "Nachos", "Buttermilk Chicken Fingers", "Chicken Wings", "Steamed Buns", "Duck Quesadilla", "Blackened Fish Tacos"]
+    },
+
+    {   
+        "id": 6,
+        "name": "Cure",
+        "address": "50 Rochester Public Market",
+        "rating": "4.6 stars",
+        "phone": "(585) 563-7941",
+        "photo": "assets/images/cure.jpg",
+        "menu": ["Soft Pretzel", "Tempura Cauliflower", "Nachos", "Buttermilk Chicken Fingers", "Chicken Wings", "Steamed Buns", "Duck Quesadilla", "Blackened Fish Tacos"]
+    },
+
+    {   
+        "id": 7,
+        "name": "The Revelry",
+        "address": "1290 University Ave",
+        "rating": "4.4 stars",
+        "phone": "(585) 340-6454",
+        "photo": "assets/images/TR.jpg",
+        "menu": ["Soft Pretzel", "Tempura Cauliflower", "Nachos", "Buttermilk Chicken Fingers", "Chicken Wings", "Steamed Buns", "Duck Quesadilla", "Blackened Fish Tacos"]
+    },
+
+    {   
+        "id": 8,
+        "name": "Blu Wolf Bistro",
+        "address": "657 Park Ave",
+        "rating": "4.3 stars",
+        "phone": "(585) 270-4467",
+        "photo": "assets/images/BWC.jpg",
+        "menu": ["Soft Pretzel", "Tempura Cauliflower", "Nachos", "Buttermilk Chicken Fingers", "Chicken Wings", "Steamed Buns", "Duck Quesadilla", "Blackened Fish Tacos"]
+    },
+
+    {   
+        "id": 9,
+        "name": "Jines Restaurant",
+        "address": "658 Park Ave",
+        "rating": "4.6 stars",
+        "phone": "(585) 461-1280",
+        "photo": "assets/images/JR.jpg",
+        "menu": ["Soft Pretzel", "Tempura Cauliflower", "Nachos", "Buttermilk Chicken Fingers", "Chicken Wings", "Steamed Buns", "Duck Quesadilla", "Blackened Fish Tacos"]
+    }
+
+]
+
+
